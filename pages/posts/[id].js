@@ -1,5 +1,5 @@
-import Layout from '../../components/layout';
-import { getAllPostIds, getPostData } from '../../lib/posts';
+import Layout from '../../components/layout'
+import { getAllPostIds, getPostData } from '../../lib/posts'
 
 export default function Post({ postData }) {
   return (
@@ -14,21 +14,18 @@ export default function Post({ postData }) {
 }
 
 export async function getStaticPaths() {
-  const paths = getAllPostIds();
+  const paths = getAllPostIds()
   return {
     paths,
-    fallback: false,
-  };
+    fallback: false
+  }
 }
 
-// What is the point of this function?  It is just wrapping the getPostData function.  Why not just define it in here?
 export async function getStaticProps({ params }) {
-  const postData = getPostData(params.id);
+  const postData = getPostData(params.id)
   return {
     props: {
-      postData,
-    },
-  };
+      postData
+    }
+  }
 }
-
-
