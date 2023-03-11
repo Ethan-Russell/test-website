@@ -11,3 +11,9 @@ There should be a picture above
 |Col1|Col2|
 |---|---|
 |Info 1|Inch 2|
+
+## Links 
+
+* [Internal relative link](ssg-ssr)
+* [Internal absolute link](/posts/ssg-ssr)
+* [External link](https://dev.to/jameswallis/how-to-use-the-remark-markdown-converters-with-next-js-projects-a8a)
