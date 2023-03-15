@@ -3,19 +3,20 @@ import Layout from '../../components/layout'
 import Date from '../../components/date';
 import { getAllPostIds, getPostData } from '../../lib/posts'
 import utilStyles from '../../styles/utils.module.css';
+import ReactMarkdown from 'react-markdown'
 
-export default function Post({ postData }) {
+export default function Post({ id, frontmatter, content }) {
   return (
     <Layout>
       <Head>
-        <title>{postData.title}</title>
+        <title>{frontmatter.title}</title>
       </Head>
       <article>
-        <h1 className={utilStyles.headingXl}>{postData.title}</h1>
+        <h1 className={utilStyles.headingXl}>{frontmatter.title}</h1>
         <div className={utilStyles.lightText}>
-          <Date dateString={postData.date} />
+          <Date dateString={frontmatter.date} />
         </div>
-        <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+        <ReactMarkdown>{content}</ReactMarkdown>
       </article>
     </Layout>
   )
@@ -32,8 +33,6 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.id)
   return {
-    props: {
-      postData
-    }
-  }
+    props: { ...postData },
+  };
 }
