@@ -4,6 +4,7 @@ import Date from '../../components/date';
 import { getAllPostIds, getPostData } from '../../lib/posts'
 import utilStyles from '../../styles/utils.module.css';
 import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
 
 export default function Post({ id, frontmatter, content }) {
   return (
@@ -16,7 +17,7 @@ export default function Post({ id, frontmatter, content }) {
         <div className={utilStyles.lightText}>
           <Date dateString={frontmatter.date} />
         </div>
-        <ReactMarkdown>{content}</ReactMarkdown>
+        <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
       </article>
     </Layout>
   )
