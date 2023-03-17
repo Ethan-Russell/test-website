@@ -28,18 +28,34 @@ img {
 
 table {
   border-collapse: collapse;
-  border: 1px solid black;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 300px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  
 }
 
 th, td {
-  border: 1px solid black;
-  padding: 4px;
+  /* border: 1px solid black; */
+  padding: 12px 15px;
 }
 
-thead {
-	background-color: #00007c;
-	color: white;
-	font-size: 0.875rem;
-	text-transform: uppercase;
-	letter-spacing: 2%;
+thead tr {
+	background-color: darkcyan;
+  color: #ffffff;
+  text-align: left;
 }
+
+tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+tbody tr:last-of-type {
+  border-bottom: 2px solid darkcyan;
+}
+

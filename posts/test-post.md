@@ -10,7 +10,8 @@ There should be a picture above
 
 |Col1|Col2|
 |---|---|
-|Info 1|Inch 2|
+|Info 1|Info 2|
+|Info 3|Info 4|
 
 ## Links 
 
