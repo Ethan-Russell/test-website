@@ -2,8 +2,6 @@ import { useRouter } from 'next/router';
 import Link from 'next/link';
 import PropTypes from 'prop-types';
 
-import styles from '../styles/Navbar.module.css'
-
 export { NavLink };
 
 NavLink.propTypes = {
