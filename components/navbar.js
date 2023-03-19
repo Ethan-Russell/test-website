@@ -1,7 +1,5 @@
 import {NavLink} from './navlink';
 
-export default Navbar;
-
 const Navbar = () => {  
   return (
     <nav className='topNav'>
@@ -17,3 +15,5 @@ const Navbar = () => {
     </nav>
   );
 }
+
+export default Navbar;
