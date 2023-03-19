@@ -1,6 +1,6 @@
 ---
 title: Cornbread
-date: 3/19/23
+date: 2023-03-19
 ---
 
 ## Ingredients
