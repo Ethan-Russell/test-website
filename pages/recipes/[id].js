@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Layout from '../../components/layout'
 import Date from '../../components/date';
-import { getAllPostIds, getPostData } from '../../lib/posts'
+import { getAllPostIds, getPostData } from '../../lib/recipes'
 import utilStyles from '../../styles/utils.module.css';
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
