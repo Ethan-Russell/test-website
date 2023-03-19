@@ -26,6 +26,9 @@ img {
   display: block;
 }
 
+
+/* Table Styling */
+
 table {
   border-collapse: collapse;
   margin: 25px 0;
@@ -37,7 +40,6 @@ table {
 }
 
 th, td {
-  /* border: 1px solid black; */
   padding: 12px 15px;
 }
 
@@ -58,4 +60,46 @@ tbody tr:nth-of-type(even) {
 tbody tr:last-of-type {
   border-bottom: 2px solid darkcyan;
 }
+
+
+
+/* Navbar Styling */
+
+nav a {
+  display: block;
+  color: #dfc8c8;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #555;
+  color: white;
+  text-decoration: bold;
+}
+
+.active {
+  color: black;
+  background: #198372;
+}
+
+nav {
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #044137;
+  box-shadow: 0 5px 10px #ccc;
+}
+
+/* Basic styles for nav links */
+nav a {
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 100%;
+  text-decoration: none;
+}
+
 

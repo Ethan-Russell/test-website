@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
+import Navbar from './navbar';
 
 const name = 'Ethan Russell'
 export const siteTitle = 'Ethan\'s Blog'
@@ -26,6 +27,7 @@ export default function Layout({ children, home }) {
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <header className={styles.header}>
+        <Navbar />
         {home ? (
           <>
             <Image
