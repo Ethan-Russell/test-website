@@ -13,7 +13,7 @@ body {
 }
 
 a {
-  color: #4a0693;
+  color: mediumblue;
   text-decoration: none;
 }
 
@@ -26,20 +26,80 @@ img {
   display: block;
 }
 
+
+/* Table Styling */
+
 table {
   border-collapse: collapse;
-  border: 1px solid black;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 300px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  
 }
 
 th, td {
-  border: 1px solid black;
-  padding: 4px;
+  padding: 12px 15px;
 }
 
-thead {
-	background-color: #333;
-	color: white;
-	font-size: 0.875rem;
-	text-transform: uppercase;
-	letter-spacing: 2%;
+thead tr {
+	background-color: darkcyan;
+  color: #ffffff;
+  text-align: left;
 }
+
+tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+tbody tr:last-of-type {
+  border-bottom: 2px solid darkcyan;
+}
+
+
+
+/* Navbar Styling */
+
+nav a {
+  display: block;
+  color: #dfc8c8;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #555;
+  color: white;
+  text-decoration: bold;
+}
+
+.active {
+  color: black;
+  background: #198372;
+}
+
+nav {
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #044137;
+  box-shadow: 0 5px 10px #ccc;
+}
+
+/* Basic styles for nav links */
+nav a {
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 100%;
+  text-decoration: none;
+}
+
+

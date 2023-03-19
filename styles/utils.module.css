@@ -50,3 +50,20 @@
 .lightText {
   color: #666;
 }
+
+
+/* .active {
+  background-color: #04AA6D;
+  color: white;
+} */
+
+/* Specific styles for non-active links */
+.nonActive {
+  color: white;
+}
+
+/* Specific styles for active links */
+.active {
+  color: black;
+  background: orange;
+}
