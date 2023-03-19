@@ -2,7 +2,7 @@ import {NavLink} from './navlink';
 
 export default Navbar;
 
-Navbar = () => {  
+const Navbar = () => {  
   return (
     <nav className='topNav'>
       <NavLink href='/' exact className="nav-item">
