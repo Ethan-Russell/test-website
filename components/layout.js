@@ -30,6 +30,7 @@ export default function Layout({ children, home }) {
         <Navbar />
         {home ? (
           <>
+            <br />
             <Image
               priority
               src="/images/profile.jpg"
