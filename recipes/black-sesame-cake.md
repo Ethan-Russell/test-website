@@ -2,7 +2,7 @@
 title: 'Black Sesame Cake'
 date: '2023-03-21'
 ---
-![Black Sesame Cake](images/recipes/black-sesame-cake.jpgg)
+![Black Sesame Cake](/images/recipes/black-sesame-cake.jpgg)
 
 Aren't sesame seeds white? And how could they belong in a cake??
 
