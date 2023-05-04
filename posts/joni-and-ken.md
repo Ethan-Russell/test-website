@@ -3,6 +3,9 @@ title: Joni & Ken
 date: '2023-04-30'
 ---
 
+![Joni & Ken](/images/posts/joni-and-ken/joni-and-ken.jpg)
+
+
 Joni & Ken is an autobiographical book by Ken and Joni Eareckson Tada.  Joni is a well-known woman, who is a quadripelegic painter, writer, and inspirational speaker engaged in spreading the gospel to other disabled men, women, and children around the world.  Joni and Ken is all about her marriage with Ken Tada, who is lesser known in the public eye.  I thought it was a great book, and I wanted to share some of the key themes.
 
 ## Marriage is Hard
@@ -11,6 +14,6 @@ Joni and Ken had a really difficult marriage.  Joni depended on Ken for a lot - 
 
 One night when Joni was struggling to breathe with her pneumonia (pneumonia is a common cause of death for quadripelegics because they aren't able to effectively expel mucus), Ken was up with her every time she had to cough, helping her to sit up and push against her abs to cough and get more air into her lungs.  There was one occasion that she was seeing spots because she wasn't getting enough air.  They both feared for her life.  Yet they persisted and she was able to breathe.  The next time when Ken was helping her yet again, Joni was taken by surprise and wonder as she saw the face of Jesus in Ken.  "I'm not kidding.  I can feel His touch when you touch me.  I can see Him in your smile.  I can hear Him in the tone of your voice.  Right now!  I mean it.  This is what I prayed for.  You are Jesus!"  Jesus has a way of showing up in those times of suffering.  He is always with us, always guiding us, always wanting the best for us, even and especially in the darkest hours of our life.
 
-I take great comfort in Ken's story.  Hannah and I have been through a few struggles that feel as though they place extra responsibilities on me, where the marriage feels a bit lop-sided.  I wrestle with my own set of lies that I believe about myself.  When I get latched onto one of these lies, I get caught up in it and I can't see anything else.  It can be debilitating, yet my responsibilities often force me to lay aside those thoughts and feelings.  Hearing Ken's struggles and eventual victory is truly inspiring to me.
+I take great comfort in Ken's story.  Hannah and I have been through a few struggles with Hannah's health that place a greater physical burden on me, where the marriage feels a bit lop-sided.  On top of that, I wrestle with my own set of lies that I believe about myself, about my self-worth.  Sometimes, it is easy for me to believe that all I'm good for is caring for Hannah.  Writing it down it feels silly and ridiculous to say, but when I get latched onto one of these lies, I get caught up in it and I can't see anything else.  It can be debilitating, yet my responsibilities often force me to lay aside those thoughts and feelings.  Hearing Ken's struggles and eventual victory is truly inspiring to me.
 
-> "Be sober-minded and watchful.  Your adversary, the devil, prowls around like a roaring lion seeking someone to devour.  Resist him, firm in your faith knowing that the same kinds of suffering are being experienced by your brotherhood around the world."
+> "Be sober-minded and watchful.  Your adversary, the devil, prowls around like a roaring lion seeking someone to devour.  Resist him, firm in your faith knowing that the same kinds of suffering are being experienced by your brotherhood around the world.  And after you have suffered a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you.  To him be the dominion forever and ever. Amen." - 1 Peter 5:8-11
