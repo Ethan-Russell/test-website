@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a little website I made so that I can make posts easily in markdown, and have them look alright.  It is made with [Next.js](https://nextjs.org/learn).
