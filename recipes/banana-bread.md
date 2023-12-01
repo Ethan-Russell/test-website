@@ -6,10 +6,10 @@ date: '2023-09-08'
 This is a simple banana bread recipe. I like it because it only requires 2 large ripe bananas. It can be used for a dozen muffins or an 8x8 pan. Probably a loaf too, but I haven't tried that.
 
 ## Ingredients
-- 2/3 c sugar
+- 1/2 c sugar
 - 1/2 c oil
-- 2 eggs
-- 2 big bananas or 3 smaller ones
+- 2 Tbs flax soaked for 10 minutes in 5 Tbs water, or you can use 2 eggs
+- 2 big, ripe bananas or 3 smaller ones
 - 1 tsp vanilla if you've got it
 - 1 2/3 c flour
 - 1 tsp baking soda
