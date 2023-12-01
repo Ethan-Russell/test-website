@@ -8,7 +8,7 @@ This is a simple banana bread recipe. I like it because it only requires 2 large
 ## Ingredients
 - 1/2 c sugar
 - 1/2 c oil
-- 2 Tbs flax soaked for 10 minutes in 5 Tbs water, or you can use 2 eggs
+- 2 Tbs ground flax seeds soaked for 10 minutes in 5 Tbs water, or you can use 2 eggs
 - 2 big, ripe bananas or 3 smaller ones
 - 1 tsp vanilla if you've got it
 - 1 2/3 c flour
