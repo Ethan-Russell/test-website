@@ -14,7 +14,7 @@ So where did black sesame cake come from?  After much deliberation, Hannah reque
 
 ## Ingredients
 - 3 TBS sugar
-- 3 TBS (freshly) black sesame seeds
+- 3 TBS toasted black sesame seeds (toast in a dry pan if needed)
 - 1 TBS butter (substitute oil if needed)
 - 1 egg
 - ½ tsp vanilla extract
