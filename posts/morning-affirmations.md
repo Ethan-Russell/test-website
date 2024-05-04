@@ -2,7 +2,7 @@
 title: 'Daily Affirmations'
 date: '2024-05-04'
 ---
-_This is a set of daily affirmations adapted by Joe Marcucci._
+_This is a set of daily affirmations written by Kenneth Boa, and adapted by Joe Marcucci._
 
 ## 1. Submitting to God
 Because of all You have done for me, I present my body to You as a living sacrifice for this day. I want to be transformed by the renewing of my mind, affirming that Your will for me is good and acceptable and perfect. (Romans 12:1–2)
